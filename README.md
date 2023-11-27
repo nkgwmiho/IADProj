@@ -1,7 +1,4 @@
 # Instrumentation and Displays Project
-This project was initiated with the primary objective of optimizing daily operations within a local bus operator company. The provided dataset encompassed a comprehensive set of bus operation data, 
-excluding information related to bus drivers and routes. The scenario mirrored the experience of joining a bus operator company and being entrusted with the task of leveraging this data to enhance daily operations.
-
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,7 +10,8 @@ excluding information related to bus drivers and routes. The scenario mirrored t
 
 ## Introduction
 
-Describe the project in more detail. Include its purpose, goals, and any relevant background information.
+This project was initiated with the primary objective of optimizing daily operations within a local bus operator company. The provided dataset encompassed a comprehensive set of bus operation data, 
+excluding information related to bus drivers and routes. The scenario mirrored the experience of joining a bus operator company and being entrusted with the task of leveraging this data to enhance daily operations.
 
 ## Features
 
